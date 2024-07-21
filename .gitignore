@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /vendor/
 node_modules/
 npm-debug.log
@@ -26,6 +27,8 @@ Homestead.json
 =======
 =======
 >>>>>>> 9b2a664 (Initial commit)
+=======
+>>>>>>> 2d3e7eb (Initial commit with project setup)
 /.phpunit.cache
 /node_modules
 /public/build
@@ -49,6 +52,8 @@ yarn-error.log
 >>>>>>> b5e854d (Initial commit with project setup)
 =======
 =======
+=======
+>>>>>>> 1fce54c (Initial commit with project setup)
 /vendor/
 node_modules/
 npm-debug.log
@@ -72,5 +77,32 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+<<<<<<< HEAD
 >>>>>>> ac7249e (Initial commit)
+<<<<<<< HEAD
 >>>>>>> 9b2a664 (Initial commit)
+=======
+=======
+=======
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
+>>>>>>> b5e854d (Initial commit with project setup)
+>>>>>>> 1fce54c (Initial commit with project setup)
+>>>>>>> 2d3e7eb (Initial commit with project setup)
